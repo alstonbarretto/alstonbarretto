@@ -1,100 +1,50 @@
 ## Hi, I’m Alston 👋
 
 Infrastructure Engineer based in the UK 🇬🇧  
-Builder of reliable systems by day, curious tinkerer by night.
+Cloud, automation, and reliable systems.
 
 ---
 
-### 👨‍💻 About Me
+### About
 
-My journey into infrastructure and systems engineering started in an unexpected place —  
-**World of Warcraft** 🧙‍♂️ on a not-so-amazing laptop.
+I’m an Infrastructure Engineer with a background in **Network Management & Security (BSc, Middlesex University)**.
 
-Trying to squeeze every bit of performance out of that machine pushed me into:
-- Network optimisation
-- Performance tuning
-- Understanding *why* systems behave the way they do
+My interest in systems started early — optimising networks and performance on a not-so-great laptop while gaming — and grew into a career focused on building, automating, and maintaining resilient infrastructure.
 
-That curiosity stuck.
+I write and build around:
+- Cloud & infrastructure engineering
+- Automation & IaC
+- CI/CD & system reliability
 
-A decade ago, I earned a **BSc in Network Management & Security** from **Middlesex University**, and since then I’ve been working hands-on with infrastructure, automation, and cloud platforms.
-
-Outside of tech, I enjoy:
-- 👨‍👩‍👧‍👦 Spending time with my family  
-- 🏋️ Lifting heavy things  
-- 🖥️ Self-hosting and homelab experiments  
-- ✈️ Travelling when possible  
-
-On GitHub (and my website), I mostly write and build around:
-- Infrastructure & cloud engineering
-- System design & automation
-- DevOps practices
-- The occasional life lesson
+Outside of work: family, lifting weights, self-hosting, and travel.
 
 ---
 
-### 🔭 What I’m Working On
+### Currently
 
-- 🎥 Growing a **tech-focused YouTube channel**
-- ☁️ Cloud & Infrastructure projects (AWS, Terraform, CI/CD)
-- 🐳 Learning and experimenting with **Kubernetes**
-- 🧪 Improving testing and deployment pipelines
-
----
-
-### 🧠 Currently Learning
-
-- Kubernetes (hands-on, not just theory)
-- Better testing strategies for infrastructure
-- Observability & reliability patterns
+- 🎥 Building a tech YouTube channel
+- ☁️ Working with AWS & Terraform
+- 🐳 Learning Kubernetes
 
 ---
 
-### 📊 GitHub Stats
+### GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alstonbarretto&show_icons=true&theme=transparent)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alstonbarretto&show_icons=true&hide_title=true&theme=transparent)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alstonbarretto&layout=compact&theme=transparent)
 
 ---
 
-### 🎥 YouTube
+### YouTube
 
-I document my cloud & infrastructure journey on YouTube — real projects, real mistakes, real fixes.
+![Subscribers](https://img.shields.io/youtube/channel/subscribers/YOUR_CHANNEL_ID?style=flat)
+![Views](https://img.shields.io/youtube/channel/views/YOUR_CHANNEL_ID?style=flat)
 
-![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/YOUR_CHANNEL_ID?style=flat-square)
-![YouTube Channel Views](https://img.shields.io/youtube/channel/views/YOUR_CHANNEL_ID?style=flat-square)
-
-➡️ **YouTube:** https://www.youtube.com/@YOUR_HANDLE  
-
-*(Replace `YOUR_CHANNEL_ID` and handle above — I can help you find it if needed)*
+▶️ https://www.youtube.com/@alstonbarretto
 
 ---
 
-### 🛠️ Tech I Enjoy Working With
+### Contact
 
-- **Cloud:** AWS
-- **IaC:** Terraform
-- **CI/CD:** GitHub Actions
-- **Containers:** Docker, Kubernetes (learning)
-- **OS:** Linux
-- **Monitoring:** CloudWatch, logs, metrics, alerts
-
----
-
-### 💬 Ask Me About
-
-- Infrastructure engineering
-- Terraform & AWS basics
-- CI/CD pipelines
-- Transitioning from traditional IT to cloud
-
----
-
-### 📫 Get In Touch
-
-- 📧 Email: **hello@alstonbarretto.com**
-- 🌐 Website: https://alstonbarretto.com
-
----
-
-> “Curiosity is the most reliable tool in an engineer’s toolbox.”
+📧 hello@alstonbarretto.com  
+🌐 https://alstonbarretto.com
