@@ -14,8 +14,8 @@ Cloud, automation, and reliable systems.
 
 ### GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alstonbarretto&show_icons=true&hide_title=true&theme=transparent)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alstonbarretto&layout=compact&theme=transparent)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alstonbarretto&show_icons=true&hide_title=true&hide_rank=true&theme=transparent&cache_seconds=86400)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alstonbarretto&layout=compact&langs_count=6&theme=transparent&cache_seconds=86400)
 
 ---
 
