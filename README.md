@@ -9,6 +9,17 @@ Cloud, automation, and reliable systems.
 - ☁️ Working with AWS & Terraform
 - 🐳 Learning Kubernetes
 
+### Skills
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="32" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="32" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="32" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="32" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="32" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="32" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons
+
 ### YouTube
 
 ![YouTube Subscribers](https://img.shields.io/youtube/channel/subscribers/UCQ6zHcel79WnHgAzDj6jOAQ?style=flat&label=YouTube&logo=youtube)
