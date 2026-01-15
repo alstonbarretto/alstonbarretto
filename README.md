@@ -21,8 +21,8 @@ Cloud, automation, and reliable systems.
 
 ### YouTube
 
-![YouTube Subscribers](https://img.shields.io/youtube/channel/subscribers/CHANNEL_ID?style=flat&label=YouTube&logo=youtube)
-![YouTube Views](https://img.shields.io/youtube/channel/views/CHANNEL_ID?style=flat&label=Views&logo=youtube)
+![YouTube Subscribers](https://img.shields.io/youtube/channel/subscribers/UCQ6zHcel79WnHgAzDj6jOAQ?style=flat&label=YouTube&logo=youtube)
+![YouTube Views](https://img.shields.io/youtube/channel/views/UCQ6zHcel79WnHgAzDj6jOAQ?style=flat&label=Views&logo=youtube)
 
 ▶️ https://www.youtube.com/@alstonbarretto
 
