@@ -20,6 +20,8 @@ Cloud, automation, and reliable systems.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="32" />
 </p>
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alstonbarretto&layout=compact&langs_count=6&theme=transparent&cache_seconds=86400)
+
 ### YouTube
 
 ![YouTube Subscribers](https://img.shields.io/youtube/channel/subscribers/UCQ6zHcel79WnHgAzDj6jOAQ?style=flat&label=YouTube&logo=youtube)
